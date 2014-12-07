@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/davequick/codeshipexample/issues"
   },
-  "homepage": "https://github.com/davequick/codeshipexample"
+  "homepage": "https://github.com/davequick/codeshipexample",
+  "dependencies": {
+    "mocha": "^2.0.1"
+  }
 }
